@@ -5,7 +5,9 @@
 
 #index{
     background-image: url(./recipe_images/kitchen.jpg);
+    background-repeat: no-repeat;
     background-attachment: fixed;
+    background-size: auto;
 }
 
 #directory{
