@@ -6,8 +6,23 @@
 #index{
     background-image: url(./recipe_images/kitchen.jpg);
     background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: auto;
+    background-attachment: scroll;
+    background-size: cover;
+
+}
+
+#cookies{
+    background-image: url(./recipe_images/no_bake_cookies.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+}
+
+#gravy{
+    background-image: url(./recipe_images/choc_gravy.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
 }
 
 #directory{
@@ -17,14 +32,18 @@
 
 .description{
     font-size: 18px;
+    background-color: #E5853B
+    
 }
 
 .ingredients{
     font-size: 18px;
+    background-color: #E5853B
 }
 
 .steps{
     font-size: 18px;
+    background-color: #E5853B
 }
 
 body{
